@@ -23,3 +23,6 @@ virtualenv env
  ```python
  python demo.py
  ```
+### Output
+
+![Output Image](https://raw.githubusercontent.com/shah0150/artistic-images-with-neural-networks/master/output.png "Output")
